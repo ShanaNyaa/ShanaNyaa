@@ -26,7 +26,9 @@
 ### Softwares:
 
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40px"/></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img align="left" alt="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="40px"/></a>
 <a href="https://developer.android.com/studio" target="_blank"><img align="left" alt="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" height="40px"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img align="left" alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="40px"/></a>
 
 <!--
 **ShanaNyaa/ShanaNyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
