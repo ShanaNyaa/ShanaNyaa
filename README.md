@@ -17,8 +17,9 @@
 
 ### Frameworks:
 
+<a href="https://react.dev/" target="_blank"><img align="left" alt="React.js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40px"/></a>
 <a href="https://reactnative.dev/" target="_blank"><img align="left" alt="React Native" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40px"/></a>
-<a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" height="40px"/></a>
+<a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" src="https://flutter.dev/assets/lockup_flutter_horizontal.549a1b7dd82615e8e9c95c1ade8cee42.svg" height="40px"/></a>
 
 <br>
 <br>
